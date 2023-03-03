@@ -19,3 +19,6 @@
 > Більше інформації по встановленню та використанню у Linux i Windows --> [тут](https://www.tecmint.com/linux-tree-command-examples/) і [тут](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tree).<br>
 > <br>
 > __!!! Для повноцінної роботи скрипта, встановлення утиліти НЕ є обов'язковим !!!__
+
+`pip install -i https://test.pypi.org/simple/ Sorting-Files==0.0.2`<br>
+[test Pypi link](https://test.pypi.org/project/Sorting-Files/0.0.2/)
